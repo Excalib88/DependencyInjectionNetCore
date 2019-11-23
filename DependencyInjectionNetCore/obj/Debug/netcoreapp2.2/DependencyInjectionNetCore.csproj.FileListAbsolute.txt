@@ -1,0 +1,11 @@
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\bin\Debug\netcoreapp2.2\DependencyInjectionNetCore.deps.json
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\bin\Debug\netcoreapp2.2\DependencyInjectionNetCore.runtimeconfig.json
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\bin\Debug\netcoreapp2.2\DependencyInjectionNetCore.runtimeconfig.dev.json
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\bin\Debug\netcoreapp2.2\DependencyInjectionNetCore.dll
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\obj\Debug\netcoreapp2.2\DependencyInjectionNetCore.csprojAssemblyReference.cache
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\obj\Debug\netcoreapp2.2\DependencyInjectionNetCore.csproj.CoreCompileInputs.cache
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\obj\Debug\netcoreapp2.2\DependencyInjectionNetCore.AssemblyInfoInputs.cache
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\obj\Debug\netcoreapp2.2\DependencyInjectionNetCore.AssemblyInfo.cs
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\bin\Debug\netcoreapp2.2\DependencyInjectionNetCore.pdb
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\obj\Debug\netcoreapp2.2\DependencyInjectionNetCore.dll
+D:\Project\DependencyInjectionNetCore\DependencyInjectionNetCore\obj\Debug\netcoreapp2.2\DependencyInjectionNetCore.pdb
